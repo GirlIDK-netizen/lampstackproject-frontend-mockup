@@ -1,0 +1,1 @@
+# lampstackproject-frontend-mockup
